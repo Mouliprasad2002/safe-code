@@ -3,7 +3,6 @@
 **Safe Code** is a Visual Studio Code extension that automatically detects **sensitive information** (passwords, API keys, tokens, emails, etc.) in your code files and provides a **real-time status bar indicator**. Keep your code safe and avoid accidental leaks while coding!  
 
 ![Safe Code Screenshot](images/safe-code-demo.png)  
-*(Add your screenshot in `images/safe-code-demo.png` to showcase the red/green dot in the status bar.)*
 
 ---
 
@@ -22,7 +21,7 @@
 
 ## Requirements
 
-- **VS Code** version `1.104.0` or higher.  
+- **VS Code** version `1.102.0` or higher.  
 - No additional dependencies are required.  
 
 ---
@@ -68,8 +67,8 @@ Contributions are welcome! Please fork the repository and submit pull requests f
 
 ## Support
 
-- GitHub Issues: [Create an issue](https://github.com/<your-username>/safe-code/issues)  
-- Email: `<your-email>`  
+- GitHub Issues: [Create an issue](https://github.com/Mouliprasad2002/safe-code/issues)  
+- Email: `mouliprasad2002@gmail.com`  
 
 ---
 
